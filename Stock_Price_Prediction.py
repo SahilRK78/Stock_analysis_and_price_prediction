@@ -18,7 +18,7 @@ start = datetime(end.year-20, end.month, end.day)
 infy_data = yf.download(stock, start, end)
 
 # Load pre-trained LSTM model
-lstm_model = load_model("C:/Users/91776/Downloads/stock_price_lstm_model.keras")
+lstm_model = load_model("stock_price_lstm_model.keras")
 
 st.subheader("Stock Data")
 st.write(infy_data)
