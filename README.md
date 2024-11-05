@@ -1,7 +1,8 @@
 **Stock Price Prediction App**
 This repository contains a Streamlit application for predicting stock prices using historical data. The project utilizes the yfinance library to gather data and implements multiple forecasting models.
 
-**Project Overview**
+**Project Overview:**
+
 Data Collection: Historical stock price data was collected using the yfinance library
 
 Exploratory Data Analysis (EDA): Conducted detailed EDA on the collected data over the past 5 years, including visualizations and statistical analysis to identify trends and seasonality.
