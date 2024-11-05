@@ -15,3 +15,8 @@ ARIMA, SARIMAX, and Linear Regression: Implemented these traditional time series
 LSTM Model: Utilized a Long Short-Term Memory (LSTM) model trained on the 20-year dataset for enhanced performance in capturing complex patterns, building on insights gained from the initial models.
 
 Deployment: The final prediction model is deployed in Streamlit app, allowing users to input parameters and obtain stock price forecasts.
+
+## Try the App
+
+You can try out the Stock Price Prediction App [here](https://stock-analysis-and-price-prediction-78.streamlit.app/).
+
